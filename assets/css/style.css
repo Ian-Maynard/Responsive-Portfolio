@@ -1,0 +1,178 @@
+body {
+    width: 960px;
+    height: 760px;
+}
+
+a,
+a:visited {
+    color: #777777;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #ADFF2F;
+    font-weight: bold
+}
+
+h1,
+h2,
+h3 {
+    color: #4aaaa5;
+    font-weight: bold;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+hr {
+    color: #cccccc;
+}
+
+textarea {
+    resize: none;
+}
+
+#hdr {
+    background: #ffffff;
+    width: 100%;
+    height: 80px;
+    border-bottom: 3px #CCCCCC solid;
+}
+
+#name_box {
+    font-size: 38px;
+    padding: 15px 15px 5px 20px;
+    background: #4aaaa5;
+    float: left;
+    color: #ffffff;
+    margin-left: 20px;
+    height: 60px;
+}
+
+#nav_menu {
+    color: gray;
+    padding: 28px 15px 05px 1px;
+    margin: 0px 0px 0px 684px;
+    font-size: 18px;
+    font-family: "Arial";
+}
+
+#nav_menu a:hover {
+    color: #ADFF2F;
+    font-weight: bold
+}
+
+#nav_menu a,
+a:visited {
+    color: #777777;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#nav_menu a:active {
+    color: #FF0000;
+    font-weight: bold
+}
+
+#Con {
+    box-sizing: border-box;
+    width: 630px;
+    height: 380px;
+    font-size: 18px;
+    color: #777777;
+    background: #ffffff;
+    float: left;
+    margin-top: 65px;
+    margin-left: 20px;
+    padding: 20px;
+    border: 1px #dddddd solid;
+}
+
+.Rightimg {
+	padding-top: 15px;
+	float:right;
+}
+	
+.Leftimg {
+	padding-top: 15px;
+	padding-right: 30px;
+	float:left;
+}
+
+
+
+#sub {
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+
+#Con_mess {
+    padding-top: 10 px;
+    background: #ffffff;
+    float: left;
+    border: 1px #dddddd solid;
+}
+
+#Con_input {
+    box-sizing: border-box;
+    padding: 15px 0px 15px 0px;
+    background: #ffffff;
+    float: left;
+    border: 1px #dddddd solid;
+}
+
+#Con h1 {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Georgia';
+}
+
+#bio_text h1 {
+    font-size: 26px;
+    font-weight: bold;
+    font-family: 'Georgia';
+}
+
+#bio_text {
+    max-width: 630px;
+    box-sizing: border-box;
+    font-size: 18px;
+    color: #777777;
+    background: #ffffff;
+    float: left;
+    margin-top: 65px;
+    margin-left: 20px;
+    text-align: justify;
+    padding: 20px;
+    border: 1px #dddddd solid;
+}
+
+#icon_box {
+    background: #ffffff;
+    text-align: center;
+    box-sizing: border-box;
+    float: right;
+    width: 255px;
+    height: 150px;
+    padding: 5px;
+    margin-top: 65px;
+    border: 1px #dddddd solid;
+}
+
+#icon_box h1 {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Georgia';
+}
+
+#ftr {
+    font-size: 10px;
+    background: #666666;
+    color: #ffffff;
+    height: 50px;
+    position: absolute;
+    width: 960px;
+    bottom: 0px;
+    border-top: 8px #4aaaa5 solid;
+    text-align: center;
+    padding-top: 15PX;
+}
